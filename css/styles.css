@@ -5,7 +5,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+  font-family: "Montserrat";
+  font-weight: bold;
 }
 
 p {
@@ -15,7 +16,8 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
+  font-family: "Montserrat";
+  font-weight: black;
   font-size: 3.5rem;
   line-height: 1.5;
 }
@@ -50,8 +52,8 @@ p {
 
 .navbar-brand {
   font-family: "Ubuntu";
-  font-size: 2.5rem;
   font-weight: bold;
+  font-size: 2.5rem;
 }
 
 .nav-item {
@@ -59,8 +61,9 @@ p {
 }
 
 .nav-link {
+  font-family: "Montserrat";
+  font-weight: lighter;
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
 }
 
 /* Buttons */
